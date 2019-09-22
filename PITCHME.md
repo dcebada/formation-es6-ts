@@ -161,8 +161,8 @@ user => getRights(user)
 
 +++?code=sample/es6/setandmap.js&title=Set y Map
 @title[Set y Map]
-@[1-9](Set)
-@[12-20](Map)
+@[1-9](Map)
+@[12-20](Set)
 @[23-25](Podemos usar for..of para recorrer las colecciones)
 
 ---
