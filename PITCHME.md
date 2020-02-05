@@ -157,7 +157,7 @@ user => getRights(user)
 @[15-27](Podemos solucionarlo guardando una referencia)
 @[30-41](Es más elegante enlazar a la función el valor de this)
 @[44-55](Pero aún sería más elegante si usamos forEach correctamente)
-@[58,68](Nos pondríamos el smoking usando una función flecha)
+@[58-68](Nos pondríamos el smoking usando una función flecha)
 
 +++?code=sample/es6/setandmap.js&title=Set y Map
 @title[Set y Map]
